@@ -1,4 +1,4 @@
-package chap_5;
+package cspik3.assignment_5;
 
 import java.util.ArrayList;
 import java.util.Arrays;
